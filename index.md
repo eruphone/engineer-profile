@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+## 基礎情報
+HN:eruphone  
+生まれ年:1993年  
+活動地域:東京  
+職業:サーバサイドエンジニア  
 
-You can use the [editor on GitHub](https://github.com/eruphone/engineer-profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 何やってるの？
+サーバサイドの設計/開発を行っています。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## エンジニア像
+あとで書く！
 
-### Markdown
+## 技術スタック
+### 💪業務経験があって、それなりにできると自負している
+アウトプットに一定の自信アリ
+* DDD
+* Java(~SE10) 
+* Groovy(Spock)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 💦業務経験はあるが、あまり自信は無い
+ある程度はわかるけどツッコまれると怪しいからやめてほしい
+* Kotlin
+* SpringFramework4.0~
+* SpringBoot2.0~
+* Oracle Database 11g
+* MySQL 5.6
+* インフラ周り
 
-```markdown
-Syntax highlighted code block
+### 💕プライベートで使ってる
+型で守られた世界がだいすき
+* Scala
+* Haskell
 
-# Header 1
-## Header 2
-### Header 3
+### 📖好きな本
+* DDD本（エリック・エヴァンス）
+  * 初見は何言ってるか良くわからなかった
+  * 実際にある程度DDDをやってみて、それから読み返してみると学びしかなかったので所謂スルメ本なのかもしれない
+* 現場で役立つシステム設計の原則
+  * ただしあまりにも「答え」になりすぎているので初級者には勧められない…
+    * 自分の脳でフィルターをかけて、取捨選択しながら読める人には心の底からおすすめしたい本です
 
-- Bulleted
-- List
+## 好きなこと/もの
+* 上昇志向な、停滞しないチーム、組織
+* ドメインモデルを考えること
+  * なんだかんだで実装より好きだったりします
+* コードレビュー
+  * 人のコードを見るのが好きです
+  * 細かいところも気になるので人によってはウザいと思われるかもしれません
+    * コードフォーマットは統一されていないと気持ち悪さを感じるタイプです
+  * ただし、自分がメンテ担当になってもいいと思えるPRにしかApproveは出しません
+* エンジニアとして認められること
+  * 「高単価だからすごい」とか「客先の評判が良いと聞いている」みたいな評価はいらないです
+  * 設計/実装はもちろん、チームとして必須な存在であるかどうかの方が重要です
+* ゲーム
+  * PCの対人ゲームが好きです
+* お肉、日本酒
+  * 日本酒は好きですが詳しくないです
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eruphone/engineer-profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 苦手なこと/もの
+* 説明
+  * 言語化が苦手なのでレスポンスが遅かったり冗長だったりします
+  * 直したい所存…
+  * ただ、説明すること（自分の考えを述べること）自体は嫌いじゃなくて、むしろ好きです
+* 同じモチベーションで仕事のできない人（停滞し続けている人）
+* 運用作業ばかりでカイゼンに時間の取れない環境
+* フロントの設計/開発
+  * 単純に興味がないので
+* 低スペックPC
+  * IDEの立ち上がり待ちやビルド待ちの時間が苦痛です
+  * 公私共にMacを使うことが多いのでWindowsも苦手です
+* 海で取れる生き物は食べられない
+  * 水族館は問題ないです
+  * 海藻は食べられます
